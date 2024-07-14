@@ -1,0 +1,5 @@
+**/note.ini
+**/*.pem
+**/.terragrunt-cache
+**/.terraform.lock.hcl
+**/.terraform
